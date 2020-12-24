@@ -1,4 +1,4 @@
-# Módulo Compre Junto - OpenCart 2x, 3x
+# Módulo Compre Junto - OpenCart 2x, 3x, 4x
 Módulo Compre Junto para lojas OpenCart com funcionalidades de desconto, organização em carrossel ou lista, direção horizontal ou vertical e busca de informações por categorias, marcas ou lista de produtos personalizada podendo criar múltiplos configurações adicionados as páginas através do design. Compatível com OpenCart 2.x ~ 3.x
 
 #### Funcionalidades:
