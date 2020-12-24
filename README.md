@@ -10,7 +10,7 @@ Módulo Compre Junto para lojas OpenCart com funcionalidades de desconto, organi
 - Utiliza a instalação padrão do OpenCart (OCMod)
 
 ##### Compatibilidade:
-|2.0.x|2.1.x|2.2.x|2.3.x|3.0.x|3.1.x|
+|2.0.x|2.1.x|2.2.x|2.3.x|3.0.x|4.0.x|
 |-|-|-|-|-|-|
 
 ##### Outras informações:
