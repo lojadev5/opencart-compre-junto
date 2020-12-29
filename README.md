@@ -23,6 +23,7 @@ Módulo Compre Junto para lojas OpenCart com funcionalidades de desconto, organi
 
 ##### Adquira sua licença:
 - [Módulo Compre Junto - R$ 49,50 em dev5.com.br](https://dev5.com.br/opencart/modulos/compre-junto)
+- [Módulo Compre Junto - R$ 60,00 em mercadolivre.com.br](https://produto.mercadolivre.com.br/MLB-1749129932-modulo-compre-junto-opencart-2x3x4x-dev5-_JM)
 
 ##### Changelog:
 - [Registro de Alterações Módulo Compre Junto](https://dev5.com.br/opencart/modulos/compre-junto#changelog)
